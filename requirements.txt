@@ -1,0 +1,4 @@
+faster-whisper>=1.0.0
+av>=15,<17   # av 17+ casse faster-whisper (argument metadata_errors supprime)
+PySide6-Essentials>=6.6   # interface graphique Qt
+# pour compiler le .exe : pip install pyinstaller
